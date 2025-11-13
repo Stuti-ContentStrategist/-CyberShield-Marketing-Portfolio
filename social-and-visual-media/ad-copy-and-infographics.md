@@ -1,6 +1,6 @@
 # Ad Copy & Infographics
 
-#### 🧱 Overview
+## 🧱 Overview
 
 This section demonstrates **CyberShield’s brand storytelling through concise, visual-first content** — including ad copy concepts and infographic outlines.
 
@@ -120,3 +120,5 @@ A split-second clock animation with a “threat stopped” indicator — clean, 
 ✅ Maintain brand colors, typography, and icon consistency.
 
 > 🧠 **Info:** Ads and infographics compress storytelling into seconds — mastering them shows you can communicate both _quickly and memorably_, a must for modern content strategy.
+
+These ad and infographic examples highlight how CyberShield captures attention quickly while communicating value with precision and visual clarity.
