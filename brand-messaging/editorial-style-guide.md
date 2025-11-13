@@ -95,7 +95,7 @@ It ensures that every message, from product guides to campaign posts, reflects t
 
 🧠 **Info:** Editorial discipline is invisible when done right — it makes every word feel intentional.
 
-### 🧭 **End of Guide!**
+#### 🧭 **End of Guide!**
 
 🎉 **Great work — you’ve completed the CyberShield Editorial Style Guide!**
 
