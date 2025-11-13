@@ -6,7 +6,7 @@ This section showcases how CyberShield Security Suite uses long-form content to 
 
 Each blog is written with a clear goal — whether it’s explaining a feature, breaking down an industry trend, or guiding users through a security best practice.
 
-💡 Tip: Strong blogs help readers learn something useful. Focus on clarity and value first, and weave in product relevance naturally.
+💡 **Tip:** Strong blogs help readers learn something useful. Focus on clarity and value first, and weave in product relevance naturally.
 
 ***
 

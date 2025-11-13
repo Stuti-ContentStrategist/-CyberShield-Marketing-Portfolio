@@ -36,8 +36,6 @@ This marketing portfolio is designed to demonstrate expertise in:
 * Crafting content tailored to developers, IT teams, and enterprise buyers
 * Integrating technical accuracy with marketing storytelling
 
-🧠 **Info:** This portfolio complements your technical documentation work, showing that you can communicate complex products both **technically** and **strategically**.
-
 ***
 
 ### 🧾 About the Author
