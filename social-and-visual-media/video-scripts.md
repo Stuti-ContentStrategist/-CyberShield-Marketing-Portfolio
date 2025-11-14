@@ -1,7 +1,5 @@
 # Video Scripts
 
-## 🎬 Video Scripts
-
 ## 🧱 Overview
 
 This section showcases how **CyberShield Security Suite** can be presented through visual storytelling.\

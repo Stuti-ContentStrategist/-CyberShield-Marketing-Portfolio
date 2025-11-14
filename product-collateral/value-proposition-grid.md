@@ -43,9 +43,4 @@ CyberShield stands out through:
 * **Operational Efficiency** — automation reduces manual load.
 * **Scalable Architecture** — grows as the organization expands.
 
-***
-
-### 🧭 Summary
-
-CyberShield’s value comes from its modular yet unified approach: each product functions independently but becomes exponentially more powerful when combined.\
-This framework helps ensure a single, consistent message across internal and external assets.
+CyberShield’s value comes from its modular yet unified approach: each product functions independently but becomes exponentially more powerful when combined. This framework helps ensure a single, consistent message across internal and external assets.
