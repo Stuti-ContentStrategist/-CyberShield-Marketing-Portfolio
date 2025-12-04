@@ -1,8 +1,8 @@
 # Table of contents
 
-* [💼 CyberShield Marketing Portfolio](README.md)
+* [CyberShield Marketing Portfolio](README.md)
 
-## &#x20;🧱 Product Collateral
+## 🧱 Product Collateral
 
 * [Product Line Overview](product-collateral/product-line-overview.md)
 * [Product Descriptions](product-collateral/product-descriptions.md)
