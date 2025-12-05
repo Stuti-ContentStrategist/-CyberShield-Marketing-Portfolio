@@ -1,6 +1,6 @@
 # Persona Snapshots
 
-## 🧱 Overview
+## Overview
 
 This section introduces fictionalized user personas that represent the core audience segments for **CyberShield Security Suite**.
 
@@ -10,30 +10,30 @@ Each persona highlights motivations, pain points, and communication preferences 
 
 ***
 
-### 👨‍💻 Persona 1 — _Ravi Sharma, IT Security Administrator_
+### Persona 1 — _Ravi Sharma, IT Security Administrator_
 
 **Age:** 35\
 **Location:** Bengaluru, India\
 **Company Size:** 500–1000 employees\
 **Industry:** SaaS / IT Services
 
-#### 🎯 Goals
+#### Goals
 
 * Maintain uninterrupted system uptime
 * Detect and resolve security issues in real time
 * Automate repetitive monitoring tasks
 
-#### 😟 Pain Points
+#### Pain Points
 
 * Overwhelmed by constant alerts and manual checks
 * Limited team size for 24/7 coverage
 * Pressure to maintain compliance across multiple regions
 
-#### 💡 How CyberShield Helps
+#### How CyberShield Helps
 
 > “With CyberShield’s AI-driven monitoring and automated incident response, Ravi saves hours daily — allowing him to focus on strategic improvements instead of routine firefighting.”
 
-#### 🗣️ Tone That Works
+#### Tone That Works
 
 * Professional, clear, and reassuring
 * Data-backed content (e.g., “35% reduction in downtime”)
@@ -41,30 +41,30 @@ Each persona highlights motivations, pain points, and communication preferences 
 
 ***
 
-### 👩‍💼 Persona 2 — _Neha Verma, Chief Information Officer (CIO)_
+### Persona 2 — _Neha Verma, Chief Information Officer (CIO)_
 
 **Age:** 44\
 **Location:** Mumbai, India\
 **Company Size:** 2000+ employees\
 **Industry:** Finance / Banking
 
-#### 🎯 Goals
+#### Goals
 
 * Ensure enterprise-wide security and compliance
 * Justify ROI of cybersecurity investments
 * Gain real-time visibility across departments
 
-#### 😟 Pain Points
+#### Pain Points
 
 * Fragmented security tools with poor integration
 * Difficulty translating technical data into business insights
 * High cost of downtime or breaches
 
-#### 💡 How CyberShield Helps
+#### How CyberShield Helps
 
 > “CyberShield’s centralized dashboard and AI analytics give Neha full control — with executive reports that translate security metrics into measurable outcomes.”
 
-#### 🗣️ Tone That Works
+#### Tone That Works
 
 * Strategic and benefits-first
 * Confident language, with clear business value propositions
@@ -72,20 +72,20 @@ Each persona highlights motivations, pain points, and communication preferences 
 
 ***
 
-### 👨‍🔧 Persona 3 — _Arjun Mehta, Software Developer / Integrator_
+### Persona 3 — _Arjun Mehta, Software Developer / Integrator_
 
 **Age:** 29\
 **Location:** Pune, India\
 **Company Size:** 250–500 employees\
 **Industry:** SaaS / Cloud Platforms
 
-#### 🎯 Goals
+#### Goals
 
 * Integrate CyberShield APIs into custom systems
 * Ensure smooth SDK setup and configuration
 * Reduce integration friction for faster deployment
 
-#### 😟 Pain Points
+#### Pain Points
 
 * Limited documentation clarity
 * Troubleshooting API authentication
@@ -95,7 +95,7 @@ Each persona highlights motivations, pain points, and communication preferences 
 
 > “With CyberShield’s clean API documentation, sample code, and SDK references, Arjun integrates security features seamlessly into internal platforms.”
 
-#### 🗣️ Tone That Works
+#### Tone That Works
 
 * Technical but conversational
 * Code examples and visual snippets
@@ -103,30 +103,30 @@ Each persona highlights motivations, pain points, and communication preferences 
 
 ***
 
-### 👩‍💻 Persona 4 — _Riya Nair, Content & Compliance Specialist_
+### Persona 4 — _Riya Nair, Content & Compliance Specialist_
 
 **Age:** 32\
 **Location:** Hyderabad, India\
 **Company Size:** 1000+ employees\
 **Industry:** Healthcare / Legal Tech
 
-#### 🎯 Goals
+#### Goals
 
 * Maintain GDPR, HIPAA, and SOC 2 compliance
 * Prepare audit reports and ensure data governance
 * Collaborate with IT teams for risk management
 
-#### 😟 Pain Points
+#### Pain Points
 
 * Complex compliance updates
 * Dependence on technical teams for audit logs
 * Lack of real-time policy enforcement tools
 
-#### 💡 How CyberShield Helps
+#### How CyberShield Helps
 
 > “Riya relies on CyberShield’s automated compliance reports and role-based access control to ensure every audit is accurate and effortless.”
 
-#### 🗣️ Tone That Works
+#### Tone That Works
 
 * Trustworthy and clear
 * Policy-driven messaging
@@ -134,7 +134,7 @@ Each persona highlights motivations, pain points, and communication preferences 
 
 ***
 
-### 📊 Persona Summary Table
+### Persona Summary Table
 
 | **Persona** | **Role**           | **Primary Goal**       | **Pain Point**     | **CyberShield Benefit**    |
 | ----------- | ------------------ | ---------------------- | ------------------ | -------------------------- |
@@ -145,7 +145,7 @@ Each persona highlights motivations, pain points, and communication preferences 
 
 ***
 
-#### 💡 Best Practice Guidelines
+### Best Practice Guidelines
 
 ✅ Use personas to guide tone, layout, and vocabulary in every channel.\
 ✅ Keep them data-informed — update quarterly based on analytics or feedback.\
