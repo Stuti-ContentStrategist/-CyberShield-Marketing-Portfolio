@@ -1,20 +1,20 @@
 # Referral Program
 
-## 🧱 Overview
+## Overview
 
 Turn your connections into rewards.\
 Invite peers to experience CyberShield — and earn exclusive perks when they join.
 
 ***
 
-#### 💬 Share Security. Earn Rewards.
+#### Share Security. Earn Rewards.
 
 Empower trusted users to spread the word.\
 Each successful referral helps strengthen the global cybersecurity network while rewarding you for your advocacy.
 
 ***
 
-#### ⚙️ How It Works
+#### How It Works
 
 **1️⃣ Sign Up**\
 Activate “Refer & Earn” in your CyberShield account — get your unique referral link instantly.
@@ -28,11 +28,11 @@ Your contact activates a free trial or demo and gets a welcome email with quick-
 **4️⃣ Earn Rewards**\
 When they activate their license, you receive CyberShield credits, premium upgrades, or gift cards.
 
-🧩 **Tip:** Keep sharing with context — referrals perform best when framed as _helping peers improve security_, not just earning rewards.
+> 💡 **Tip:** Keep sharing with context — referrals perform best when framed as _helping peers improve security_, not just earning rewards.
 
 ***
 
-#### 💰 Reward Tiers
+#### Reward Tiers
 
 * **1–3 Referrals:** $25 gift card or 1-month Premium upgrade
 * **4–9 Referrals:** $100 CyberShield credit + Early Access to new features
@@ -40,7 +40,7 @@ When they activate their license, you receive CyberShield credits, premium upgra
 
 ***
 
-#### 📊 Referral Dashboard
+#### Referral Dashboard
 
 Track your impact in one place.\
 See:
@@ -51,7 +51,7 @@ See:
 
 ***
 
-#### 🔒 Fair Use & Compliance
+#### Fair Use & Compliance
 
 CyberShield automatically validates referrals to ensure transparency and fairness.\
 ✅ Only first-time users count as valid referrals.\
@@ -60,16 +60,16 @@ CyberShield automatically validates referrals to ensure transparency and fairnes
 
 ***
 
-#### 🎯 Designed for Advocates Who Lead by Example
+#### Designed for Advocates Who Lead by Example
 
 From IT admins to enterprise security heads — the Referral Program rewards influence and trust.\
 It’s built for professionals who believe cybersecurity grows stronger through collaboration.
 
-💡 **Tip:** Use social proof — mention referral success stories in your community hub or newsletters to inspire participation.
+> 💡 **Tip:** Use social proof — mention referral success stories in your community hub or newsletters to inspire participation.
 
 ***
 
-#### 💬 What Our Advocates Say
+#### What Our Advocates Say
 
 > “Sharing CyberShield with my clients was effortless — the dashboard made tracking rewards simple.”\
 > — _Priya Menon, Cyber Consultant_
@@ -79,14 +79,14 @@ It’s built for professionals who believe cybersecurity grows stronger through 
 
 ***
 
-#### 🛡 Trusted by Industry Leaders
+#### Trusted by Industry Leaders
 
 Referred by top professionals across sectors:\
 **FinSure | DataSecure Inc. | HealthNet | CloudOps | RetailNext**
 
 ***
 
-#### 🚀 Join the CyberShield Referral Program Today
+#### Join the CyberShield Referral Program Today
 
 **Headline:** “Share Security. Earn Rewards.”\
 **CTA:** \[Activate Refer & Earn] or \[Invite Your Network]\
@@ -94,7 +94,7 @@ Referred by top professionals across sectors:\
 
 ***
 
-#### 💡 Best Practice Guidelines
+### Best Practice Guidelines
 
 ✅ Keep the referral process simple — 3 clicks or less from sign-up to share.\
 ✅ Use benefit-first communication — focus on helping peers secure their networks.\
