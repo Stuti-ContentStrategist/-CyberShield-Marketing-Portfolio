@@ -1,16 +1,16 @@
 # Tone & Voice (for marketing)
 
-## 🧱 Overview
+## Overview
 
 This section defines how the **CyberShield brand communicates in marketing contexts** — across web, email, social, and advertising.
 
 While the technical documentation tone focuses on clarity and accuracy, the marketing tone adds **energy, confidence, and emotional resonance** to inspire trust and engagement.
 
-💡 **Tip:** A consistent tone builds credibility. But an adaptable voice builds connection.
+> 💡 **Tip:** A consistent tone builds credibility. But an adaptable voice builds connection.
 
 ***
 
-### 🧠 Brand Voice Pillars
+### Brand Voice Pillars
 
 | **Voice Trait**  | **Description**                                                                         | **Example in Action**                                                                  |
 | ---------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ While the technical documentation tone focuses on clarity and accuracy, the mark
 
 ***
 
-### ⚙️ Tone Spectrum
+### Tone Spectrum
 
 CyberShield’s tone shifts slightly depending on context — maintaining the same brand essence while adapting to audience needs.
 
@@ -34,11 +34,11 @@ CyberShield’s tone shifts slightly depending on context — maintaining the sa
 | **Whitepapers / Articles**  | Thoughtful, authoritative               | Formal structure, data-backed storytelling             |
 | **Ads / Visuals**           | Energetic, emotional, persuasive        | Impact words, urgency, punchy rhythm                   |
 
-> 🧭 **Guideline:** The core message never changes — only the _expression_ does. CyberShield should always sound **humanly intelligent**.
+> **Guideline:** The core message never changes — only the _expression_ does. CyberShield should always sound **humanly intelligent**.
 
 ***
 
-### ✍️ Writing Style Principles
+### Writing Style Principles
 
 #### 1️⃣ Clarity Over Complexity
 
@@ -74,7 +74,7 @@ Whether it’s an ad, press release, or case study — maintain tone uniformity 
 
 ***
 
-### 💬 Tone Dos and Don’ts
+### Tone Dos and Don’ts
 
 | ✅ **Do**                     | 🚫 **Don’t**                        |
 | ---------------------------- | ----------------------------------- |
@@ -86,7 +86,7 @@ Whether it’s an ad, press release, or case study — maintain tone uniformity 
 
 ***
 
-### 🔉 Sample Tone Comparisons
+### Sample Tone Comparisons
 
 | **Scenario**   | **Before (Too Technical)**                                               | **After (Marketing-Optimized)**                                        |
 | -------------- | ------------------------------------------------------------------------ | ---------------------------------------------------------------------- |
@@ -98,7 +98,7 @@ Whether it’s an ad, press release, or case study — maintain tone uniformity 
 
 ***
 
-#### 💡 Best Practice Guidelines
+### Best Practice Guidelines
 
 ✅ Keep a tone reference doc accessible to all content creators.\
 ✅ Align tone with campaign goals — awareness vs conversion.\

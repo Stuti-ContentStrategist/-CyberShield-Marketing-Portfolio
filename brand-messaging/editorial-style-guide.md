@@ -1,12 +1,12 @@
 # Editorial Style Guide
 
-## 🧱 Overview
+## Overview
 
 The **CyberShield Editorial Style Guide** defines grammar, punctuation, and formatting standards for all written content — including documentation, marketing, and internal communication.
 
 It ensures that every message, from product guides to campaign posts, reflects the same level of precision, clarity, and professionalism.
 
-💡 **Tip:** Consistency is clarity. Consistency across channels turns content into communication.
+> 💡 **Tip:** Consistency is clarity. Consistency across channels turns content into communication.
 
 ***
 
@@ -85,7 +85,7 @@ It ensures that every message, from product guides to campaign posts, reflects t
 
 ***
 
-#### 💡 Best Practice Guidelines
+### Best Practice Guidelines
 
 ✅ Always check for consistency across tone, punctuation, and structure.\
 ✅ Avoid using unnecessary capitals in mid-sentence product references.\
@@ -95,9 +95,11 @@ It ensures that every message, from product guides to campaign posts, reflects t
 
 🧠 **Info:** Editorial discipline is invisible when done right — it makes every word feel intentional.
 
-#### 🧭 **End of Guide!**
+***
 
-🎉 **Great work — you’ve completed the CyberShield Editorial Style Guide!**
+#### **End of Guide!**
+
+**Great work — you’ve completed the CyberShield Editorial Style Guide!**
 
 You now know how to:
 
@@ -107,4 +109,4 @@ You now know how to:
 * Structure content for readability across channels, devices, and UI modes
 * Ensure every message reflects CyberShield’s intelligent, professional, and human-centered voice
 
-📚 To know more about the author, please visit: [**About the Author.**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/SujDvXvEbVunQ9a2s6Us/)
+To know more about the author, please visit: [**About the Author.**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/SujDvXvEbVunQ9a2s6Us/)

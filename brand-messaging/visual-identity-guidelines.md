@@ -1,16 +1,16 @@
 # Visual Identity Guidelines
 
-## 🧱 Overview
+## Overview
 
 The **CyberShield Visual Identity** is designed to communicate intelligence, trust, and precision — reflecting the same calm control users experience inside the **CyberShield Control Hub**.
 
 Every color, typeface, and layout choice reinforces the brand’s core personality: **smart, secure, and seamless.**
 
-💡 **Tip:** A visual identity should extend the product experience — what users _see_ in the interface should mirror what they _feel_ in the conVisual Identity Guidelinestent.
+> 💡 **Tip:** A visual identity should extend the product experience — what users see in the interface should mirror what they feel in the content.
 
 ***
 
-### **🎨 CyberShield UI Color Palette**&#x20;
+### **CyberShield UI Color Palette**
 
 | **Color Role**             | **Hex Code** | **Usage**                                         |
 | -------------------------- | ------------ | ------------------------------------------------- |
@@ -22,7 +22,7 @@ Every color, typeface, and layout choice reinforces the brand’s core personali
 
 ***
 
-### &#x20;Typography
+### Typography
 
 CyberShield uses **modern sans-serif typography** for high readability across screens.\
 The combination of clean headers and simple body fonts matches the clarity of its technical and marketing tone.
@@ -82,11 +82,11 @@ Content is modular, spacious, and visually balanced to maintain calmness in data
 | **Dashboards**       | 3–4 card panels with consistent padding      | App & case studies   |
 | **Email Templates**  | Narrow, center-aligned text with CTA buttons | Campaigns            |
 
-> 🧩 **Tip:** Keep the same visual rhythm across docs, site, and app — users should instantly _recognize_ they’re still within CyberShield’s world.
+> 💡 **Tip:** Keep the same visual rhythm across docs, site, and app — users should instantly _recognize_ they’re still within CyberShield’s world.
 
 ***
 
-### &#x20;Brand Symbols
+### Brand Symbols
 
 **Logo (Primary):**
 
@@ -101,7 +101,7 @@ Content is modular, spacious, and visually balanced to maintain calmness in data
 
 ***
 
-#### 💡 Best Practice Guidelines
+### Best Practice Guidelines
 
 ✅ Use consistent spacing (8px grid system) across UI and marketing visuals.\
 ✅ Maintain high contrast between text and backgrounds for accessibility (WCAG AA+).\
@@ -112,4 +112,3 @@ Content is modular, spacious, and visually balanced to maintain calmness in data
 > 🧠 **Info:** A cohesive visual system turns a product into a _brand experience_ — every design element reinforces trust and recognizability.
 
 By following these principles, CyberShield delivers a cohesive brand experience across product, marketing, and design.
-
