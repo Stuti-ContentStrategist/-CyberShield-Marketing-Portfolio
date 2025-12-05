@@ -1,24 +1,24 @@
 # Video Scripts
 
-## 🧱 Overview
+## Overview
 
 This section showcases how **CyberShield Security Suite** can be presented through visual storytelling.\
 Each script is written for short-form corporate videos — focusing on **clarity, engagement, and product storytelling.**
 
 They demonstrate your ability to transform technical features into emotionally compelling narratives.
 
-💡 **Tip:** Great video scripts _show_ the product’s impact before they _tell_ what it does.
+> 💡 **Tip:** Great video scripts _show_ the product’s impact before they _tell_ what it does.
 
 ***
 
-### 🎥 1. Explainer Video — _“Smarter Security. Faster Response.”_
+### 1. Explainer Video — _“Smarter Security. Faster Response.”_
 
 **Length:** \~30 seconds\
 **Format:** Motion graphics with product UI animations and voiceover narration.
 
 ***
 
-#### 🎞️ **Script**
+#### **Script**
 
 **\[Scene 1 – Opening | 0–5s]**\
 🎵 _Soft tech beat begins_\
@@ -68,14 +68,14 @@ They demonstrate your ability to transform technical features into emotionally c
 
 ***
 
-### 🎤 2. Testimonial Video — _“Why Our Clients Trust CyberShield”_
+### 2. Testimonial Video — _“Why Our Clients Trust CyberShield”_
 
 **Length:** \~45 seconds\
 **Format:** Hybrid — customer interview clips with product overlay visuals.
 
 ***
 
-#### 🎞️ **Script**
+#### **Script**
 
 **\[Scene 1 – Intro | 0–5s]**\
 🎵 _Calm, uplifting background music_\
@@ -127,7 +127,7 @@ They demonstrate your ability to transform technical features into emotionally c
 
 ***
 
-#### 💡 Best Practice Guidelines
+#### Best Practice Guidelines
 
 ✅ Keep scripts under one minute — shorter videos get higher engagement.\
 ✅ Start with _impact_ (problem or emotion) before moving to features.\

@@ -50,27 +50,27 @@ Each example is adapted for **LinkedIn, Twitter/X, and Instagram**, with a short
 
 ***
 
-### 📸 3. Instagram Carousel — “A Day in the Life of CyberShield”
+### 3. Instagram Carousel — “A Day in the Life of CyberShield”
 
 **Slide 1 (Title):**
 
-> 🔒 _What Happens When a Threat Hits Your Network?_
+> _What Happens When a Threat Hits Your Network?_
 
 **Slide 2:**
 
-> 🚨 Detection — CyberShield’s AI identifies suspicious behavior in milliseconds.
+> Detection — CyberShield’s AI identifies suspicious behavior in milliseconds.
 
 **Slide 3:**
 
-> ⚙️ Response — Automated workflows isolate affected systems instantly.
+> Response — Automated workflows isolate affected systems instantly.
 
 **Slide 4:**
 
-> 📊 Insight — Dashboards visualize the event and its impact.
+> Insight — Dashboards visualize the event and its impact.
 
 **Slide 5 (Closing):**
 
-> 💡 CyberShield doesn’t just alert you.\
+> CyberShield doesn’t just alert you.\
 > It protects you — in real time.
 >
 > \#CyberShield #Cybersecurity #Automation #TechSimplified
@@ -80,7 +80,7 @@ Each example is adapted for **LinkedIn, Twitter/X, and Instagram**, with a short
 
 ***
 
-### 🎬 4. Short-Form Video Concept — “The 5-Second Threat”
+### 4. Short-Form Video Concept — “The 5-Second Threat”
 
 **Title:**
 
@@ -89,27 +89,27 @@ Each example is adapted for **LinkedIn, Twitter/X, and Instagram**, with a short
 **Concept:**
 
 * **Scene 1:** (Timer starts — 00:00:00)\
-  \&#xNAN;_A phishing email lands in a user’s inbox._
+  \&#xNAN; _A phishing email lands in a user’s inbox._
 * **Scene 2:** (00:00:02)\
-  \&#xNAN;_CyberShield Core detects the anomaly and flags suspicious activity._
+  \&#xNAN; _CyberShield Core detects the anomaly and flags suspicious activity._
 * **Scene 3:** (00:00:03)\
-  \&#xNAN;_Automated Incident Response isolates the device._
+  \&#xNAN; _Automated Incident Response isolates the device._
 * **Scene 4:** (00:00:05)\
-  \&#xNAN;_Threat neutralized. Dashboard updated. No data loss._
+  \&#xNAN; _Threat neutralized. Dashboard updated. No data loss._
 
 **Ending Text on Screen:**
 
 > “CyberShield Security Suite — Faster Than the Threat.”
 
-🎧 Background: Subtle tech beat with an AI pulse sound.\
-🎨 Visual Style: Blue gradient motion graphics, clean UI overlays.
+Background: Subtle tech beat with an AI pulse sound.\
+Visual Style: Blue gradient motion graphics, clean UI overlays.
 
 > ⚙️ **Tone:** Engaging, cinematic, trust-building.\
 > **Audience:** Prospective customers, partners, and marketing followers.
 
 ***
 
-### 🎯 5. Community / Engagement Post — “CyberShield Challenge”
+### 5. Community / Engagement Post — “CyberShield Challenge”
 
 > 💬 **#CyberShieldChallenge**
 >
@@ -123,7 +123,7 @@ Each example is adapted for **LinkedIn, Twitter/X, and Instagram**, with a short
 
 ***
 
-#### 💡 Best Practice Guidelines
+#### Best Practice Guidelines
 
 ✅ Adapt tone to platform — professional on LinkedIn, punchy on X, visual on Instagram.\
 ✅ Use no more than 3–5 emojis per post for clarity and consistency.\
