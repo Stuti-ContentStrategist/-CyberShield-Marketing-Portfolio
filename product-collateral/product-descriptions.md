@@ -57,7 +57,7 @@ CyberShield consolidates prevention, detection, and response into one system. It
 #### **4. Email Campaign Snippet**
 
 **Subject:**\
-Detect Threats Before They Strike — Meet CyberShield 5.0 🚀
+Detect Threats Before They Strike — Meet CyberShield 5.0&#x20;
 
 **Body:**\
 Hi \[Name],\

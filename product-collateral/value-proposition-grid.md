@@ -1,12 +1,12 @@
 # Value Proposition Grid
 
-## 🧱 Overview
+## Overview
 
 This section maps CyberShield’s business value to specific customer needs, ensuring consistent positioning across marketing and documentation.
 
 ***
 
-### 🧩 CyberShield Value Proposition Matrix
+### CyberShield Value Proposition Matrix
 
 The matrix aligns:
 
@@ -25,7 +25,7 @@ Examples:
 
 ***
 
-### 🔍 Competitive Advantage Overview
+### Competitive Advantage Overview
 
 CyberShield stands out through:
 
@@ -36,7 +36,7 @@ CyberShield stands out through:
 
 ***
 
-### 🎯 Key Messaging Pillars
+### Key Messaging Pillars
 
 * **Proactive Security** — prevents incidents, not just detects them.
 * **Unified Intelligence** — every module contributes to a shared insight layer.

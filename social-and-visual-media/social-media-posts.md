@@ -1,24 +1,26 @@
 # Social Media Posts
 
-## 🧱 Overview
+## Overview
 
 This section highlights how **CyberShield Security Suite** communicates across social media channels — balancing brand consistency with platform-specific tone and formatting.
 
 Each example is adapted for **LinkedIn, Twitter/X, and Instagram**, with a short-form video concept for dynamic storytelling.
 
-💡 **Tip:** Social media isn’t about volume — it’s about _value and voice._ Each post should inform, inspire, or invite engagement.
+> 💡 **Tip:** Social media isn’t about volume — it’s about _value and voice._ Each post should inform, inspire, or invite engagement.
 
 ***
 
-### 💼 1. LinkedIn Post — Product Launch
+### 1. LinkedIn Post — Product Launch
 
-> 🚀 **CyberShield 5.0 is here — smarter, faster, and more intelligent than ever.**
+> **CyberShield 5.0 is here — smarter, faster, and more intelligent than ever.**
 >
-> 🔐 Detect anomalies before they become breaches.\
-> ⚙️ Automate incident response in seconds.\
-> 📊 Gain full visibility from a single dashboard.
+> Detect anomalies before they become breaches.\
+> Automate incident response in seconds.\
+> Gain full visibility from a single dashboard.
 >
 > Built for enterprises that can’t afford to wait for “maybe secure.”
+>
+>
 >
 > 👉 Learn more: cybershield.com/v5
 >
@@ -29,15 +31,15 @@ Each example is adapted for **LinkedIn, Twitter/X, and Instagram**, with a short
 
 ***
 
-### 🐦 2. Twitter/X Post — Feature Highlight
+### 2. Twitter/X Post — Feature Highlight
 
-> 🧠 Real-time. Reactive. Relentless.
+> Real-time. Reactive. Relentless.
 >
 > CyberShield 5.0 detects and neutralizes threats _before_ they cause downtime.
 >
-> 💡 AI-driven detection\
-> ⚙️ Automated workflows\
-> 📊 Centralized dashboard
+> AI-driven detection\
+> Automated workflows\
+> Centralized dashboard
 >
 > Stay ahead. Stay secure. 🔒
 >
@@ -87,13 +89,13 @@ Each example is adapted for **LinkedIn, Twitter/X, and Instagram**, with a short
 **Concept:**
 
 * **Scene 1:** (Timer starts — 00:00:00)\
-  &#xNAN;_&#x41; phishing email lands in a user’s inbox._
+  \&#xNAN;_A phishing email lands in a user’s inbox._
 * **Scene 2:** (00:00:02)\
-  &#xNAN;_&#x43;yberShield Core detects the anomaly and flags suspicious activity._
+  \&#xNAN;_CyberShield Core detects the anomaly and flags suspicious activity._
 * **Scene 3:** (00:00:03)\
-  &#xNAN;_&#x41;utomated Incident Response isolates the device._
+  \&#xNAN;_Automated Incident Response isolates the device._
 * **Scene 4:** (00:00:05)\
-  &#xNAN;_&#x54;hreat neutralized. Dashboard updated. No data loss._
+  \&#xNAN;_Threat neutralized. Dashboard updated. No data loss._
 
 **Ending Text on Screen:**
 
